@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="assets/janus.jpeg" alt="logo" width="300" height="300" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"/>
+  <img src="assets/janus.jpg" alt="logo" width="300" height="300" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"/>
   <br>
  Janus
   <br>
@@ -35,7 +35,7 @@
 2. run pip install command
 
 ```bash
-
+pip install https://github.com/rowlinsonmike/janus/raw/refs/heads/main/dist/janus.tar.gz
 ```
 
 ## Usage
